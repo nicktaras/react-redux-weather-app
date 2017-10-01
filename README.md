@@ -1,5 +1,8 @@
 # ReduxSimpleStarter
 
+Completed Weather App tutorial.
+
+To look a the course please visit:
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
