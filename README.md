@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# React Redux Weather App
 
 Completed Weather App tutorial.
 
